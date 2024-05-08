@@ -1,0 +1,7 @@
+package com.madimadica.example;
+public class Example {
+public static final int ONE = 1;
+public static void main(String[] args) {
+for (int i = 0; i <= ONE; ++i) {System.out.println("hello world");}
+}
+}
